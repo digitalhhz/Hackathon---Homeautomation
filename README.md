@@ -1,3 +1,5 @@
+Link to original repository: https://github.com/glasbran/Hackathon---Homeautomation
+
 # Hackathon Homeautomation
 This is the repository to provide the results of the hackathon at the Hermann-Hollerith-Zentrum in Böblingen, Germany. The functions were implemented during a two day hackathon as a part of the lecture "Internet of Things".
 
